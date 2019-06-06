@@ -1,0 +1,44 @@
+body {
+  height: 100%;
+  width: 100%;
+  background: peru;
+}
+div {
+  background: rgb(228, 133, 133);
+  height: 300px;
+  width: 250px;
+  text-align: center;
+}
+#yellow {
+  color: rgb(215, 215, 186);
+  font-size: 24px;
+}
+h3 {
+  display: inline-block;
+  /* margin-top: 0; */
+  margin-right: 10px;
+  /* margin-bottom: 0;
+  margin-left: 0;
+  margin: 0 10px 0 0; */
+}
+h3:hover {
+  color: white;
+}
+p {
+  display: inline-block;
+}
+p:nth-of-type(2) {
+  font-size: 10px;
+}
+.content {
+  text-align: left;
+  padding: 0 0 0 10px;
+  color: green;
+  font-weight: bold;
+}
+input[type] {
+  /* font-size: 60px; */
+  background: red;
+  border: 4px solid green;
+  width: 100%;
+}
