@@ -30,22 +30,6 @@ nav {
   align-items: center;
   padding: 0 20px;
 }
-.cookie {
-  height: 50px;
-  width: 50px;
-  background: red;
-}
-.title {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-}
-.subtitle {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-
-}
 .logo {
   flex: 1;
 }
@@ -97,3 +81,21 @@ main {
   display: flex;
   justify-content: center;
 }
+
+/* ignore: this was coupon spacing */
+/* .cookie {
+  height: 50px;
+  width: 50px;
+  background: red;
+}
+.title {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+.subtitle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+
+} */
